@@ -1,0 +1,43 @@
+# Large GIS raster files
+*.tif
+*.tiff
+*.img
+*.jp2
+*.ecw
+*.sid
+
+# ArcGIS temporary and cache files
+*.lock
+*.lck
+*.tmp
+*.cache
+
+# ArcGIS geodatabases
+*.gdb/
+
+# Large GIS interchange files
+*.las
+*.laz
+
+# Temporary files
+~*
+*.bak
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large raw satellite data
+raw_data/
+satellite_data/
+imagery/
+
+# Personal/local project files
+*.log
+
+# Raw dissertation data
+data/Vayshak M C - Dissertation_Raw data.xlsx
